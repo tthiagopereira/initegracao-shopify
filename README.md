@@ -16,3 +16,5 @@
 ## Rodar o servidor nativo
   - php artisan serve
 
+            user admin@admin.com
+            password 123456
