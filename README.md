@@ -9,7 +9,7 @@
 
 ## Instalação
 
-- composer update
+- composer install
 - fazer um database no banco de dados preferencia em Mysql - create database tarefa;
 - php artisan migrate --seed
 
