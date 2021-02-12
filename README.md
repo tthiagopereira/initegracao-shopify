@@ -18,3 +18,7 @@
 
             user admin@admin.com
             password 123456
+
+## Usar API Documentação
+
+https://documenter.getpostman.com/view/4150779/TWDRsKRh
